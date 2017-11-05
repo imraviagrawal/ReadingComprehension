@@ -34,7 +34,7 @@ $ python code/train.py
 
 This ensures that any files created in the process don't pollute the code directoy.
 
-#Dataset
+# Dataset
 After the download, the SQuAD dataset is placed in the data/squad folder. SQuAD downloaded
 files include train and dev files in JSON format:
 • train-v1.1.json: a train dataset with around 87k triplets.
