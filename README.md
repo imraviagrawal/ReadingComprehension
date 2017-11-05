@@ -11,7 +11,7 @@ Question: Why was Tesla returned to Gospic?
 Answer : not having a residence permit
 
 
-The project has several dependencies that have to be satisfied before running the code. You can install them using your preferred method -- we list here the names of the packages using `pip`.
+## The project has several dependencies that have to be satisfied before running the code. You can install them using your preferred method -- we list here the names of the packages using `pip`.
 
 # Requirements
 
