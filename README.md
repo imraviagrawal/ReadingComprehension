@@ -1,4 +1,4 @@
-#Reading Comprehensiom
+# Reading Comprehensiom
 
 Context paragraph: On 24 March 1879, Tesla was returned to Gospic under police guard for
 not having a residence permit. On 17 April 1879, Milutin Tesla died at the age of 60 after
@@ -22,6 +22,8 @@ It should also install all needed dependnecies through
 
 # Running 
 
+The WordEmbedding and the preprocessing scripts are taken from the Stanford CS224 class, though we will be modelling and training different neural network models.
+
 You can get started by downloading the datasets and doing dome basic preprocessing:
 
 $ code/get_started.sh
@@ -39,3 +41,4 @@ files include train and dev files in JSON format:
 • dev-v1.1.json: a dev dataset with around 10k triplets.
 
 Note that there is no test dataset publicly available: it is kept by the authors of SQuAD to ensure fairness in model evaluations. While developing the model, we will consider for all purposes the dev set as our test set, i.e., we won’t be using the dev set until afterinitial model development. Instead, we split the supplied train dataset into two parts: a 95% slice for training, and the rest 5% for validation purposes, including hyperparameter search. We refer to these as train.* and val.* in filenames.
+
