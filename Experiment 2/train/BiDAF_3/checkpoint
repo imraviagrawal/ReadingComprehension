@@ -1,0 +1,6 @@
+model_checkpoint_path: "/tmp/cs224n-squad-train/BiDAF_3/model_params-19"
+all_model_checkpoint_paths: "/tmp/cs224n-squad-train/BiDAF_3/model_params-15"
+all_model_checkpoint_paths: "/tmp/cs224n-squad-train/BiDAF_3/model_params-16"
+all_model_checkpoint_paths: "/tmp/cs224n-squad-train/BiDAF_3/model_params-17"
+all_model_checkpoint_paths: "/tmp/cs224n-squad-train/BiDAF_3/model_params-18"
+all_model_checkpoint_paths: "/tmp/cs224n-squad-train/BiDAF_3/model_params-19"
